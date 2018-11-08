@@ -1,0 +1,12 @@
+package com.example.ChatApplicationJavaSpringBoot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ChatApplicationJavaSpringBootApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ChatApplicationJavaSpringBootApplication.class, args);
+	}
+}
